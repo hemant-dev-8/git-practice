@@ -17,6 +17,18 @@ const peopleIndex = people.reduce((index, person) => {
 // }
 // removed some comments.
 
+// peopleIndex = {
+//   '1': 'John Doe',
+//   '2': 'Jane Doe',
+// }
+// removed some comments.
+
+// peopleIndex = {
+//   '1': 'John Doe',
+//   '2': 'Jane Doe',
+// }
+// removed some comments.
+
 const peopleIndexMap = new Map(
   people.map(person => [person, `${person.name} ${person.surname}`])
 );
