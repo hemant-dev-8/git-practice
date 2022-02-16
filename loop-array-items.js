@@ -10,3 +10,4 @@ for (let file of files) {
 }
 
 // filePaths = [ '~/cool_app/foo.txt', '~/cool_app/.bar', '~/cool_app/baz.foo']
+// added additional commits.
