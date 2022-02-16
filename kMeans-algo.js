@@ -37,3 +37,5 @@ const kMeans = (data, k = 1) => {
 
   return classes;
 };
+
+// kMEans algo comment.
