@@ -1,3 +1,5 @@
+// added one-more comment 01
+// added one-more comment 03
 // added one-more comment 04
 // added one-more comment 05
 const people = [
@@ -13,6 +15,7 @@ const peopleIndex = people.reduce((index, person) => {
 //   '1': 'John Doe',
 //   '2': 'Jane Doe',
 // }
+// removed some comments.
 
 const peopleIndexMap = new Map(
   people.map(person => [person, `${person.name} ${person.surname}`])

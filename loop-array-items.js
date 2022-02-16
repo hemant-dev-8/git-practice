@@ -1,3 +1,4 @@
+// added one-more comment 01
 const files = [ 'foo.txt ', '.bar', '   ', 'baz.foo' ];
 let filePaths = [];
 
@@ -13,3 +14,9 @@ for (let file of files) {
 // added additional commits.
 // added one-more comment 01
 // added one-more comment 02
+
+// added one-more comment 03
+// added one-more comment 04
+// added one-more comment 05
+// added one-more comment 06
+// added one-more comment 07
