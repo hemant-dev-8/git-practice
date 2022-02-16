@@ -1,3 +1,5 @@
+// added one-more comment 04
+// added one-more comment 05
 const people = [
   { id: 1, name: 'John', surname: 'Doe', age: 30 },
   { id: 2, name: 'Jane', surname: 'Doe', age: 28 },
