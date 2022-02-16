@@ -1,3 +1,4 @@
+// added one-more comment 01
 const files = [ 'foo.txt ', '.bar', '   ', 'baz.foo' ];
 let filePaths = [];
 
